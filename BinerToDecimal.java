@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author choirulhuda
+ * @author Fadil
  */
 public class BinerToDecimal {
 
