@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author fadil
+ * @author Fadil
  */
 public class DecimalToBiner {
     
